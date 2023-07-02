@@ -40,5 +40,5 @@
 ### Contact and links:
 
 - ✉ `Email    |` samuelchapin97@gmail.com
-- 📎 `LinkedIn |` https://www.linkedin.com/in/sam-chapin-0042a3171/
+- 📎 `LinkedIn |` https://www.linkedin.com/in/sam-chapin/
 <!-- TODO: add in resume link? -->

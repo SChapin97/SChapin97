@@ -20,12 +20,6 @@
 ---
 ### (Public) projects that I am proud of
 
-<img src="https://www.supremecourt.gov/favicon.ico"> [The Johnsonator](https://github.com/SChapin97/The-Johnsonator)
-- This project best represents my abilities as a backend developer and as a webscraper, however implementation is still in progress.
-- Named after the Johnson Ammendment, this watchdog project was made in order to scrape 501(c)(3) websites to find examples of political speech that could jeopardize their tax relief status that their organizational status would provide.
-- The project's main goal is to help, not harm, the organization that it scrapes by creating a query-able detection system for finding possible violations so the site/organization administrator can be alerted to the problematic page.
-- This project implements/will implement generic web scraping via Selenium, audio transcription, SQL database managemnt, Python OOP code, and containerization usage (Docker PostgreSQL container)
-
 <img src="https://www.redditstatic.com/desktop2x/img/favicon/favicon-16x16.png"> [Reddit Scraper](https://github.com/SChapin97/Reddit-Scraper)
 - This is a set of scripts that will perform tasks like scraping a subreddit to watch for certain posts and to create a multi-reddit feed in html/email form.
 

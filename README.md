@@ -23,9 +23,11 @@
 <img src="https://www.redditstatic.com/desktop2x/img/favicon/favicon-16x16.png"> [Reddit Scraper](https://github.com/SChapin97/Reddit-Scraper)
 - This is a set of scripts that will perform tasks like scraping a subreddit to watch for certain posts and to create a multi-reddit feed in html/email form.
 
-<img src="https://adventofcode.com/favicon.png"> [Advent of Code](https://github.com/SChapin97/advent_of_code/)
-- This is a repository created to hold all of the code submitted during the Advent of Code challenges that happen yearly from December 1st through December 24th.
+<img src="https://adventofcode.com/favicon.png" width="16"> [Advent of Code](https://github.com/SChapin97/advent_of_code/)
+- This is a repository created to hold all of the code submitted during the festive-themed Advent of Code challenges that happen yearly from December 1st through December 24th.
 - A link to the Advent of Code challenge is [here](https://adventofcode.com/)
+- Every year I also participate in the Advent of Cyber, which takes my focus away from Advent of Code\*, so each year is a bit sparse as juggling both and a full workday gets to be too much near the midpoint of the month.
+    - \* The Advent of Cyber is a similarly-themed cybersecurity event that runs at the same time, hosted by TryHackMe. The 2023 page for which can be found [here](https://tryhackme.com/r/room/adventofcyber2023).
 
 <img src="https://open.spotifycdn.com/cdn/images/favicon16.1c487bff.png"> [Audio Multitool Project (AMP)](https://github.com/SChapin97/Audio_Multi-tool_Program)
 - This is a project I orchestrated with 3 others during college. Its main purpose is to normalize the "loudness" (decibel level) of one or more audio files in order to make listening to a wide selection of music more seamless.
